@@ -1,0 +1,34 @@
+[
+    {
+        "task": "quran",
+        "completed": true
+    },
+    {
+        "task": "salah",
+        "completed": true
+    },
+    {
+        "task": "study",
+        "completed": false
+    },
+    {
+        "task": "exercise",
+        "completed": true
+    },
+    {
+        "task": "sleep",
+        "completed": false
+    },
+    {
+        "task": "visit hamada",
+        "completed": true
+    },
+    {
+        "task": "drive",
+        "completed": true
+    },
+    {
+        "task": "fly",
+        "completed": true
+    }
+]
